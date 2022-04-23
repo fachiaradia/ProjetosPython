@@ -1,5 +1,5 @@
 #Título
-print("******CALCULADORA DO FÁBIO******")
+print("******CALCULADORA PYTHON******")
 
 #Variáveis
 soma = int("1")
